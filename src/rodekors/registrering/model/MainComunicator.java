@@ -10,6 +10,8 @@ import rodekors.registrering.service.DataBaseHandler;
 import rodekors.registrering.service.FileHandler;
 import rodekors.registrering.service.Ungdom;
 
+
+//
 public class MainComunicator implements Model{
 
 	private boolean dbEnabled;
